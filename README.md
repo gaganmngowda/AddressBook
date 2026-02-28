@@ -1,2 +1,3 @@
 # AddressBook
-MY first C Project
+My first C Project
+Author - Gagan Gowda
